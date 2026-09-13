@@ -1,5 +1,13 @@
 # Notas da versão
 
+## 1.0.2
+
+- Corrige acentos em Sem conversão e no texto de informações do áudio.
+- Bloqueia a busca automática e manual quando Ignorar busca está marcado.
+- Esclarece a distinção entre título dos metadados e nome original do arquivo.
+- Corrige a explicação do modo Sem conversão ao ignorar a busca.
+
+
 ## 1.0.1
 
 - Caixa **Ignorar busca na internet** na tela principal, com estado salvo.
