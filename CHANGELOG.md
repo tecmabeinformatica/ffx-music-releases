@@ -1,5 +1,15 @@
 # Notas da versão
 
+## 1.0.1
+
+- Caixa **Ignorar busca na internet** na tela principal, com estado salvo.
+- Preservação de nomes e subpastas originais; apenas a extensão muda na conversão.
+- Apenas campos editados são aplicados; Álbum, Artista do álbum e Ano do topo valem para o lote.
+- Preservação das capas individuais nos formatos compatíveis.
+- Cópia idêntica ao original no modo Sem conversão sem edições.
+- Verificador reconhece a atualização das revisões 1.0 anteriores.
+
+
 ## 1.0 — revisão 1.0.0.2
 
 - Nome final inclui o artista: **01 - Aerosmith - Dream On.mp3**.
