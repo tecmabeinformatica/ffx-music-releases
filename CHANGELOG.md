@@ -1,5 +1,13 @@
 # Notas da versão
 
+## 1.0.4
+
+- Na organização por artista, o nome da pasta do álbum agora começa pelo ano: 1974 - Gita.
+- Datas completas usam apenas o ano; sem ano válido, permanece apenas o nome do álbum.
+- Evita repetir o ano caso o título da pasta já comece com ele.
+- O modo Ignorar busca mantém os nomes e a estrutura locais.
+
+
 ## 1.0.3
 
 - O aviso de resultado permanece, sem abrir o Explorador automaticamente ao fechar.
@@ -44,4 +52,5 @@
 - Instalação em `C:\Program Files\FFX Apps\FFX Music`, preservando a pasta compartilhada na desinstalação.
 
 A versão pública permanece 1.0 durante os ajustes. Álbuns com edições ambíguas exigem revisão; não há reconhecimento acústico. Os arquivos originais são preservados.
+
 

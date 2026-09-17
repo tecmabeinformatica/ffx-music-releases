@@ -2,7 +2,7 @@
 
 Organize e converta seus álbuns locais, com nomes, metadados e capas incorporadas.
 
-**Versão 1.0.3 · Windows x64**
+**Versão 1.0.4 · Windows x64**
 
 [Baixar o instalador mais recente](https://github.com/tecmabeinformatica/ffx-music-releases/releases/latest) · [Site oficial](https://www.ffxapps.com.br) · [Código-fonte](https://github.com/tecmabeinformatica/ffx-music-source)
 
@@ -18,15 +18,18 @@ Organize e converta seus álbuns locais, com nomes, metadados e capas incorporad
 
 ## Instalação
 
-Abra a página de Releases e baixe `FFXMusic-Setup-1.0.3.exe`. O instalador inclui o runtime e as ferramentas de áudio e requer permissão de administrador. O destino padrão é `C:\Program Files\FFX Apps\FFX Music`. Ao desinstalar, a pasta compartilhada `FFX Apps` é preservada.
+Abra a página de Releases e baixe `FFXMusic-Setup-1.0.4.exe`. O instalador inclui o runtime e as ferramentas de áudio e requer permissão de administrador. O destino padrão é `C:\Program Files\FFX Apps\FFX Music`. Ao desinstalar, a pasta compartilhada `FFX Apps` é preservada.
 
 Confira as notas da versão e o arquivo SHA256 anexado à release. A versão 1.0 está em aperfeiçoamento; confira os metadados antes de processar um álbum. Bitrate maior não recupera qualidade perdida.
 
 ## Sobre este repositório
 
-Os instaladores ficam nos anexos de **Releases**, e não em commits Git. O código está em `ffx-music-source`. A versão atual usa a tag `v1.0.3`. O verificador também reconhece as revisões anteriores `v1.0.0.N`.
+Os instaladores ficam nos anexos de **Releases**, e não em commits Git. O código está em `ffx-music-source`. A versão atual usa a tag `v1.0.4`. O verificador também reconhece as revisões anteriores `v1.0.0.N`.
 
 - **Ignorar busca na internet**: preserva nomes e subpastas, aplica somente os campos editados e mantém capas nos formatos compatíveis.
 
 
+
+
+- Álbuns organizados por artista recebem o prefixo do ano na pasta, como 1974 - Gita.
 
