@@ -1,5 +1,12 @@
 # Notas da versão
 
+## 1.0.3
+
+- O aviso de resultado permanece, sem abrir o Explorador automaticamente ao fechar.
+- Botão Abrir pasta de saída à esquerda de Cancelar após o processamento, inclusive com erros ou cancelamento.
+- O botão abre o destino da última operação concluída, mesmo se os campos de destino forem alterados depois.
+
+
 ## 1.0.2
 
 - Corrige acentos em Sem conversão e no texto de informações do áudio.
