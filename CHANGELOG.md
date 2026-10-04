@@ -1,5 +1,13 @@
 # Notas da versão
 
+## 1.0.7
+
+- Remove o botão Visualizar capa da tela principal.
+- Mantém a capa clicável para abrir a visualização ampliada.
+- Mantém Escolher capa para substituir manualmente a imagem.
+- Reduz o README para mostrar somente as informações relevantes da build atual.
+
+
 ## 1.0.6
 
 - Adiciona o botão Visualizar capa na tela principal.
@@ -68,6 +76,7 @@
 - Instalação em `C:\Program Files\FFX Apps\FFX Music`, preservando a pasta compartilhada na desinstalação.
 
 A versão pública permanece 1.0 durante os ajustes. Álbuns com edições ambíguas exigem revisão; não há reconhecimento acústico. Os arquivos originais são preservados.
+
 
 
 

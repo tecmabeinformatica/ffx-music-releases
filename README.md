@@ -1,22 +1,19 @@
-# FFX Music 1.0.6
+# FFX Music 1.0.7
 
-Conversor e organizador de álbuns para Windows, com identificação pelo MusicBrainz e capas pelo Cover Art Archive.
+Conversor e organizador de álbuns para Windows.
 
-[Baixar a versão atual](https://github.com/tecmabeinformatica/ffx-music-releases/releases/latest) · [Site oficial](https://www.ffxapps.com.br) · [Código-fonte](https://github.com/tecmabeinformatica/ffx-music-source)
+[Baixar versão atual](https://github.com/tecmabeinformatica/ffx-music-releases/releases/latest) · [Site oficial](https://www.ffxapps.com.br) · [Código-fonte](https://github.com/tecmabeinformatica/ffx-music-source)
 
-## Destaques desta build
+## Esta build
 
-- Clique na capa da tela principal ou use **Visualizar capa…** para abrir a imagem em tamanho grande.
-- Prévia proporcional, sem cortar ou deformar a capa.
-- Conversão para MP3, AAC/M4A, FLAC, ALAC/M4A e WAV.
-- Modo Sem conversão para corrigir nomes, metadados e capas sem recodificar formatos compatíveis.
-- Organização em `Artista\Ano - Álbum` e arquivos como `01 - Artista - Título.ext`.
-- Busca e revisão de edições, faixas e capas.
-- Opção para ignorar a busca e preservar a organização local.
-- Português, inglês e espanhol.
+- Clique na capa da tela principal para abrir a imagem em tamanho grande.
+- O botão redundante **Visualizar capa** foi removido.
+- **Escolher capa…** continua disponível para substituir a imagem.
+- A prévia preserva a proporção da capa.
+- Conversão e organização de álbuns em vários formatos.
 
 ## Instalação
 
-Baixe `FFXMusic-Setup-1.0.6.exe` nos anexos da release mais recente. Requer Windows x64 e instala por padrão em `C:\Program Files\FFX Apps\FFX Music`.
+Baixe `FFXMusic-Setup-1.0.7.exe` nos anexos da release. Requer Windows x64.
 
-O histórico completo fica em [CHANGELOG.md](CHANGELOG.md). Os instaladores são armazenados nos anexos de Releases.
+O histórico completo fica em [CHANGELOG.md](CHANGELOG.md).
