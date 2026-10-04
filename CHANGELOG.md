@@ -1,5 +1,13 @@
 # Notas da versão
 
+## 1.0.6
+
+- Adiciona o botão Visualizar capa na tela principal.
+- Permite ampliar a capa clicando diretamente na imagem principal.
+- Mostra a capa principal proporcionalmente, sem cortar as bordas.
+- Desabilita a visualização enquanto nenhuma capa estiver carregada.
+
+
 ## 1.0.5
 
 - Aumenta a capa na confirmação da edição de 120 para 260 pixels.
@@ -60,6 +68,7 @@
 - Instalação em `C:\Program Files\FFX Apps\FFX Music`, preservando a pasta compartilhada na desinstalação.
 
 A versão pública permanece 1.0 durante os ajustes. Álbuns com edições ambíguas exigem revisão; não há reconhecimento acústico. Os arquivos originais são preservados.
+
 
 
 

@@ -1,38 +1,22 @@
-# FFX Music — Downloads
+# FFX Music 1.0.6
 
-Organize e converta seus álbuns locais, com nomes, metadados e capas incorporadas.
+Conversor e organizador de álbuns para Windows, com identificação pelo MusicBrainz e capas pelo Cover Art Archive.
 
-**Versão 1.0.5 · Windows x64**
+[Baixar a versão atual](https://github.com/tecmabeinformatica/ffx-music-releases/releases/latest) · [Site oficial](https://www.ffxapps.com.br) · [Código-fonte](https://github.com/tecmabeinformatica/ffx-music-source)
 
-[Baixar o instalador mais recente](https://github.com/tecmabeinformatica/ffx-music-releases/releases/latest) · [Site oficial](https://www.ffxapps.com.br) · [Código-fonte](https://github.com/tecmabeinformatica/ffx-music-source)
+## Destaques desta build
 
-## Recursos
-
+- Clique na capa da tela principal ou use **Visualizar capa…** para abrir a imagem em tamanho grande.
+- Prévia proporcional, sem cortar ou deformar a capa.
 - Conversão para MP3, AAC/M4A, FLAC, ALAC/M4A e WAV.
-- Bitrate e compressão configuráveis; padrão MP3 320 kbps.
-- Modo Sem conversão para preservar o áudio de MP3, M4A (AAC/ALAC) e FLAC.
-- Busca de álbuns e capas, revisão de edições e suporte a múltiplos discos.
-- Pastas por artista e álbum, preservando os arquivos originais.
-- Português, inglês e espanhol; configurações e posição da janela salvas.
-- Verificação manual de atualizações nas configurações.
+- Modo Sem conversão para corrigir nomes, metadados e capas sem recodificar formatos compatíveis.
+- Organização em `Artista\Ano - Álbum` e arquivos como `01 - Artista - Título.ext`.
+- Busca e revisão de edições, faixas e capas.
+- Opção para ignorar a busca e preservar a organização local.
+- Português, inglês e espanhol.
 
 ## Instalação
 
-Abra a página de Releases e baixe `FFXMusic-Setup-1.0.5.exe`. O instalador inclui o runtime e as ferramentas de áudio e requer permissão de administrador. O destino padrão é `C:\Program Files\FFX Apps\FFX Music`. Ao desinstalar, a pasta compartilhada `FFX Apps` é preservada.
+Baixe `FFXMusic-Setup-1.0.6.exe` nos anexos da release mais recente. Requer Windows x64 e instala por padrão em `C:\Program Files\FFX Apps\FFX Music`.
 
-Confira as notas da versão e o arquivo SHA256 anexado à release. A versão 1.0 está em aperfeiçoamento; confira os metadados antes de processar um álbum. Bitrate maior não recupera qualidade perdida.
-
-## Sobre este repositório
-
-Os instaladores ficam nos anexos de **Releases**, e não em commits Git. O código está em `ffx-music-source`. A versão atual usa a tag `v1.0.5`. O verificador também reconhece as revisões anteriores `v1.0.0.N`.
-
-- **Ignorar busca na internet**: preserva nomes e subpastas, aplica somente os campos editados e mantém capas nos formatos compatíveis.
-
-
-
-
-- Álbuns organizados por artista recebem o prefixo do ano na pasta, como 1974 - Gita.
-
-
-- A tela de conferência mostra uma capa maior, sem deformação, com prévia ampliada ao clicar.
-
+O histórico completo fica em [CHANGELOG.md](CHANGELOG.md). Os instaladores são armazenados nos anexos de Releases.
