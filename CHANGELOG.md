@@ -1,5 +1,13 @@
 # Notas da versão
 
+## 1.0.5
+
+- Aumenta a capa na confirmação da edição de 120 para 260 pixels.
+- Mantém a proporção original da imagem, sem esticar ou deformar.
+- Permite clicar na capa para abrir uma prévia grande e redimensionável.
+- Amplia a janela de conferência para acomodar a capa e as faixas.
+
+
 ## 1.0.4
 
 - Na organização por artista, o nome da pasta do álbum agora começa pelo ano: 1974 - Gita.
@@ -52,5 +60,6 @@
 - Instalação em `C:\Program Files\FFX Apps\FFX Music`, preservando a pasta compartilhada na desinstalação.
 
 A versão pública permanece 1.0 durante os ajustes. Álbuns com edições ambíguas exigem revisão; não há reconhecimento acústico. Os arquivos originais são preservados.
+
 
 
